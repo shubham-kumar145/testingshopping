@@ -1,5 +1,37 @@
-# 💫 About Me:
-👋 Hi, I’m Shubham Kumar<br><br>🎓 Third-year B.Tech student in Electronics & Communication Engineering at BIT Mesra<br><br>💻 Web Development Enthusiast with a strong focus on full-stack development<br><br>🚀 Passionate about building modern, responsive, and high-performance web applications<br><br>💡 What I Do<br><br>⚛️ Build intuitive and scalable frontend interfaces using React and Tailwind CSS<br><br>🛠️ Develop full-stack applications with Node.js, Express.js, MongoDB, and REST APIs<br><br>🎨 Focus on UI/UX optimization, smooth interactions, and performance-driven design<br><br>🧩 Experiment with Three.js to blend creativity with engineering<br><br>📈 Write clean, maintainable code following best practices and scalable architectures<br><br>🧠 Problem Solving & Learning<br><br>🧮 Regularly practice Data Structures & Algorithms<br><br>🏆 Active on LeetCode, GeeksforGeeks, and competitive programming platforms<br><br>🔍 Strong understanding of time and space complexity<br><br>📚 Continuously learning emerging technologies and improving code quality<br><br>🚀 My Journey<br><br>🧑‍💻 Started coding in Class 12, where curiosity turned into a passion for logical problem-solving<br><br>🌱 Progressed from basic webpages to full-stack applications<br><br>🛠️ Every project strengthened my understanding of structure, performance, and user experience<br><br>🎯 Today, I focus on building impactful, real-world digital solutions<br><br>🧰 Tech Stack<br>Frontend: React, Tailwind CSS, JavaScript, HTML, CSS<br>Backend: Node.js, Express.js, REST APIs<br>Database: MongoDB<br>Tools: Git, GitHub<br>Practices: Responsive Design, UI/UX Optimization, Agile Development<br><br>✨ Driven by curiosity, creativity, and continuous learning, I aim to create digital products that solve real-world problems and deliver meaningful user experiences.
+# 💫 About Me
+
+## Hi there 👋, I’m Shubham.
+
+🎓 Third-year **Electronics & Communication Engineering** student at **BIT Mesra**  
+💻 **Full-Stack Web Developer** passionate about building modern, scalable, and high-performance web applications
+
+---
+
+🛠️ I specialize in crafting **responsive, user-centric web experiences** using modern frontend and backend technologies. I enjoy transforming ideas into intuitive digital products while continuously improving performance, code quality, and maintainability.
+
+💡 My journey into coding began in **Class 12**, where curiosity quickly evolved into a passion for logical problem-solving and system design. Since then, I’ve progressed from simple webpages to full-stack applications, focusing on clean architecture, smooth interactions, and real-world impact.
+
+---
+
+### 🚀 What I’m Currently Working On
+- Building **full-stack web applications** using React, Node.js, and MongoDB  
+- Designing **clean and scalable UI/UX** with Tailwind CSS and component-driven architecture  
+- Exploring **Three.js** to create interactive and visually engaging web experiences  
+- Practicing **Data Structures & Algorithms** to strengthen problem-solving skills  
+
+---
+
+### 🧠 Why Web Development?
+Web development allows me to blend **logic, creativity, and engineering**. I enjoy designing intuitive interfaces, optimizing performance behind the scenes, and building systems that scale while remaining maintainable over time.
+
+---
+
+### 📌 Beyond Coding
+Alongside development, I actively participate in **competitive programming**, solve problems on **LeetCode** and **GeeksforGeeks**, and continuously refine my understanding of algorithms, data structures, and complexity analysis.
+
+---
+
+✨ *Driven by curiosity, creativity, and continuous learning, I aim to build impactful digital solutions that solve real-world problems.*
 
 
 ## 🌐 Socials:
@@ -15,4 +47,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=shubham-kumar145&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
